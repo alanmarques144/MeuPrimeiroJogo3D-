@@ -9,7 +9,7 @@ O jogo foi feito com base numa playlist de videos do canal [Fredi](https://www.y
 
 - Link Para a Playlist:
 
-[![Image](https://github.com/alanmarques144/MeuPrimeiroJogo3D/blob/main/default.jpg)](https://www.youtube.com/playlist?list=PLkhtU8XJLj-7JQm_STir4bp48DvPz8xDX)
+[![Image](https://github.com/alanmarques144/MeuPrimeiroJogo3D-/blob/main/default.jpg)](https://www.youtube.com/playlist?list=PLkhtU8XJLj-7JQm_STir4bp48DvPz8xDX)
 
 - Link para os Assest utilizados:
 
